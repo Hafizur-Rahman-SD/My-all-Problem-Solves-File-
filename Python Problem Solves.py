@@ -9,6 +9,7 @@ Output: 3
 Explanation: The longest part with all different letters is "abc".'''
 
 
+
 def longest_unique_substring(s):
     seen = set()
     start = 0
